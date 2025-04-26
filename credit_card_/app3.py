@@ -9,7 +9,7 @@ app = Flask(__name__)
 app.secret_key = 'hello'  # Replace 'your_secret_key_here' with a secure key
 
 # Load the pre-trained model, scaler, KMeans clustering, and PCA
-model_path = r"C:\flaskenv\creditcard_quantum_probability_classifier_model.pkl"
+model_path = r"C:\Users\shalu\Downloads\creditcard_Random_Forest_classifier_model.pkl"
 scaler_path = r"C:\flaskenv\scaler_creditcard.pkl"
 kmeans_path = r"C:\flaskenv\kmeans_creditcard.pkl"
 pca_path = r"C:\flaskenv\pca_dup.pkl"
