@@ -84,5 +84,3 @@ The model was evaluated on a dataset, and the following results were obtained:
 ## Conclusion
 This project demonstrates the use of machine learning techniques for fraud detection in credit card transactions. The Random Forest Classifier, along with PCA and KMeans clustering, provides a robust solution for identifying fraudulent activities.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
