@@ -94,7 +94,7 @@ def save_artifacts(model, scaler, kmeans, pca, model_path, scaler_path, kmeans_p
 # Main workflow
 if __name__ == "__main__":
     data_path = r"C:\Users\shalu\Downloads\creditcard_.csv"
-    model_path = r"C:\Users\shalu\Downloads\cc_quantum_probability_classifier_model.pkl"
+    model_path = r"C:\Users\shalu\Downloads\cc_Random_Forest_classifier_model.pkl"
     scaler_path = r"C:\Users\shalu\Downloads\scaler_cc.pkl"
     kmeans_path = r"C:\Users\shalu\Downloads\kmeans_cc.pkl"
     pca_path = r"C:\Users\shalu\Downloads\pca_cc.pkl"  # Path for PCA model
