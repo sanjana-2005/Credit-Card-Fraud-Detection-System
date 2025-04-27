@@ -15,7 +15,7 @@ This project implements a credit card fraud detection system using machine learn
 ## Models and Components
 1. **Random Forest Classifier**:
    - **Purpose**: Used to classify transactions as fraudulent or non-fraudulent.
-   - **File**: `creditcard_quantum_probability_classifier_model.pkl`
+   - **File**: `creditcard_Random_Forest_classifier_model.pkl`
 
 2. **Standard Scaler**:
    - **Purpose**: Scales the input features (`Time` and `Amount`) to ensure they are on the same scale.
